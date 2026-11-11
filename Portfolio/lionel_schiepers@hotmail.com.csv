@@ -125,6 +125,8 @@ HIMS,Hims & Hers Health Inc.,Buy,2026-02-09,142,17.81
 HIMS,Hims & Hers Health Inc.,Buy,2026-05-18,100,25.25
 HIMS,Hims & Hers Health Inc.,Buy,2026-05-18,105,22.86
 HIMS,Hims & Hers Health Inc.,Sell,2026-08-24,100,24.8
+HIMS,Hims & Hers Health Inc.,Buy,2026-11-11,100,23.64
+HIMS,Hims & Hers Health Inc.,Buy,2026-11-11,100,18.78
 RACE,Ferrari N.V.,Buy,2025-08-04,7,437.49
 RACE,Ferrari N.V.,Buy,2026-02-10,4,367.56
 RACE,Ferrari N.V.,Sell,2026-08-03,11,406.31
@@ -673,6 +675,7 @@ SOLB.BR,Solvay SA,Buy,2023-12-11,62,23.20
 SOLB.BR,Solvay SA,Buy,2024-02-07,87,23.09
 SOLB.BR,Solvay SA,Sell,2024-05-09,149,34.98
 SYENS.BR,Syensqo,Buy,2023-12-11,62,85.4
+SYENS.BR,Syensqo,Sell,2026-11-11,62,79.1
 MDXH.BR,MDxHealth SA,Buy,2015-09-28,160,4.0684
 MDXH.BR,MDxHealth SA,Buy,2017-05-08,160,4.8831
 MDXH.BR,MDxHealth SA,Sell,2021-02-17,320,1.05
